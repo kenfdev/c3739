@@ -1,10 +1,10 @@
 // TODO: dear user, please change this to your own instance
-const netlifyInstance = "https://jamstack-hackathon-starter.netlify.com"
-if (netlifyInstance === "https://jamstack-hackathon-starter.netlify.com") {
+const netlifyInstance = "https://c3739.netlify.com"
+if (netlifyInstance === "https://c3739.netlify.com") {
   console.warn(`
 
 **************************
-WARNING: currently using Netlify Identity of https://jamstack-hackathon-starter.netlify.com
+WARNING: currently using Netlify Identity of https://c3739.netlify.com
 
 this is only meant for the working demo. if you forked or copied this code, you won't have access to this netlify identity instance
 
